@@ -19,12 +19,12 @@
 
 
 Relationships:
-Season has many Races: A season can have many races (one-to-many).
-Race involves many Drivers: A race can have many drivers (many-to-many).
-Driver participates in many Races: A driver can participate in multiple races (many-to-many).
-Season has one WDC: Each season has one WDC (one-to-one).
-Season has one WCC: Each season has one WCC (one-to-one).
-Constructor participates in many Races: A constructor can participate in multiple races (many-to-many).
+* Season has many Races: A season can have many races (one-to-many).
+* Race involves many Drivers: A race can have many drivers (many-to-many).
+* Driver participates in many Races: A driver can participate in multiple races (many-to-many).
+* Season has one WDC: Each season has one WDC (one-to-one).
+* Season has one WCC: Each season has one WCC (one-to-one).
+* Constructor participates in many Races: A constructor can participate in multiple races (many-to-many).
 
 ## 3. ER diagram
 
