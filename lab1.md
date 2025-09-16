@@ -26,3 +26,6 @@ Season has one WDC: Each season has one WDC (one-to-one).
 Season has one WCC: Each season has one WCC (one-to-one).
 Constructor participates in many Races: A constructor can participate in multiple races (many-to-many).
 
+## 3. ER diagram
+
+![Struct Diagram](media/image.png)
